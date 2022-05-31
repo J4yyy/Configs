@@ -8,3 +8,4 @@
     * ```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 4. Download and Import [Halcyon-Theme](https://halcyon-theme.netlify.app)
 5. Download and Install [Powerline-Fonts](https://github.com/powerline/fonts)
+    * Preferences > Profiles > Text > Font > Source Code Pro for Powerline
